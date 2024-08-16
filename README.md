@@ -1,12 +1,12 @@
 ESP|ENG|learning japanese! 👀
-- 👋 Hola! Soy Uwowa~  | Heyo! I'm Uwowa~
-- 22 años!! | 22 y/o!!
-- 👀 Estoy interesada en cosas tiernitas, y en programar hohoho | I’m interested in bunnies, cinnamoroll, and programming!
-- 🌱 Estoy actualmente aprendiendo POO y puliendo lo que sé de Python | I’m currently learning OOP and getting better at Python!
-- 💞️ Estoy buscando aprender mas cositas,,, | I'm looking for learning more things!
-- 📫 Como localizarme lololol | How to reach me! ♣ aurorasimonriquelme@gmail.com ♣
-- 😄 Pronombres: Ella | Pronouns: she/her or they/them
-- ⚡ Fun fact: i like seals!!! a lot!!!!
+- 👋 Heyo! I'm Uwowa~ 🦭 | Hola! Soy Uwowa~ 🦭 
+- 🌸 22 y/o!! | 22 años!! 
+- 👀 I’m interested in cute stuff and programming! | Estoy interesada en cosas tiernitas, y en programar!!
+- 🌱 I’m currently learning OOP and getting better at Python! | Estoy actualmente aprendiendo POO y puliendo lo que sé de Python 
+- 💞️ I'm looking for learning more things! | Estoy buscando aprender mas cosas!
+- 📫 How to reach me! | Como localizarme lololol  ♣ aurorasimonriquelme@gmail.com ♣
+- 😄 Pronouns: she/her | Pronombres: Ella 
+- ⚡ Fun fact: i like seals!!! a lot!!!! 🦭| Dato curioso: Me gustan las foquitas! 🦭
 
 <!---
 Uwowa/Uwowa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
