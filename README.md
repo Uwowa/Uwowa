@@ -1,4 +1,4 @@
-ESP|ENG|learning japanese! 👀
+ENG|ESP|learning japanese! 👀 (SPANISH MAIN LANGUAGE)
 - 👋 Heyo! I'm Uwowa~ 🦭 | Hola! Soy Uwowa~ 🦭 
 - 🌸 22 y/o!! | 22 años!! 
 - 👀 I’m interested in cute stuff and programming! | Estoy interesada en cosas tiernitas, y en programar!!
